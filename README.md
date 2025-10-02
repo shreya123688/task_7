@@ -40,8 +40,10 @@ Network Traffic
 
 Docker Containers (if any running)
 
+# CPU
 ![Install Dependencies](screenshots/cpu.png)
 
+# MEMORY
 ![Install Dependencies](screenshots/memory.png)
 
 ## ✅ Outcome
